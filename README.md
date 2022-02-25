@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alvaro</h1>
 <h3 align="center">A Software Developer from Cuba. Interested in Blockchains, graphical interface, microservices .</h3>
 
-- 🔭 I’m currently working on [Photon-Browser](https://github.com/N3koSempai/Photon-Browser.git)
+- 🔭 I’m currently working on [Everling-Browser](https://github.com/N3koSempai/Everling-Browser.git)
 
 - 🌱 I’m currently learning **web3 over algorand, CI/CD, NoSQL**
 
