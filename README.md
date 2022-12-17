@@ -1,4 +1,4 @@
-<h1 align="center">Hi ?‘‹, I'm Alvaro</h1>
+<h1 align="center">Hi , I'm Alvaro</h1>
 <h3 align="center">A Software Developer from Cuba. Interested in Blockchains, graphical interface, microservices .</h3>
 
 - currently working on [n3ko_blockchain](https://github.com/N3koSempai/n3ko_blockchain.git)
