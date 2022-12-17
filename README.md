@@ -1,11 +1,11 @@
 <h1 align="center">Hi ?‘‹, I'm Alvaro</h1>
 <h3 align="center">A Software Developer from Cuba. Interested in Blockchains, graphical interface, microservices .</h3>
 
-- ?”­ Iâ€™m currently working on [n3ko_blockchain](https://github.com/N3koSempai/n3ko_blockchain.git)
+- currently working on [n3ko_blockchain](https://github.com/N3koSempai/n3ko_blockchain.git)
 
-- ?Œ± Iâ€™m currently learning **web3 over algorand, TON blockchain, NoSQL**
+- currently learning **web3 over algorand, TON blockchain, NoSQL**
 
-- ?’¬ Ask me about **GUI, blockchain, python**
+- Ask me about **GUI, blockchain, python**
 
 <h3 align="left">Connect with me: t.me/n3ko_sama</h3>
 <p align="left">
