@@ -1,13 +1,13 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Alvaro</h1>
+<h1 align="center">Hi ?‘‹, I'm Alvaro</h1>
 <h3 align="center">A Software Developer from Cuba. Interested in Blockchains, graphical interface, microservices .</h3>
 
-- ðŸ”­ Iâ€™m currently working on [Everling-Browser](https://github.com/N3koSempai/Everling-Browser.git)
+- ?”­ Iâ€™m currently working on [n3ko_blockchain](https://github.com/N3koSempai/n3ko_blockchain.git)
 
-- ðŸŒ± Iâ€™m currently learning **web3 over algorand, CI/CD, NoSQL**
+- ?Œ± Iâ€™m currently learning **web3 over algorand, TON blockchain, NoSQL**
 
-- ðŸ’¬ Ask me about **GUI, algorand, APIs**
+- ?’¬ Ask me about **GUI, blockchain, python**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: t.me/n3ko_sama</h3>
 <p align="left">
 </p>
 
@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n3kosempai&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="n3kosempai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n3kosempai&show_icons=true&theme=tokyonight&locale=en" alt="n3kosempai" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=n3kosempai&show_icons=true&theme=tokyonight&locale=en" alt="n3kosempai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n3kosempai&theme=dark" alt="n3kosempai" /></p>
